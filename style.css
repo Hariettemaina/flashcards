@@ -1,0 +1,10 @@
+.front, .back {
+    width:100%;
+    min-height: 300px;
+    display: table;
+}
+
+
+.fast{
+   animation-duration: 5s; 
+}
